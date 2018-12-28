@@ -1,4 +1,7 @@
-*******MACHINE LEARNING *******
+MACHINE LEARNING
+
+Collaboration with Danielle Pennacchia. This project compared the use of k-means clustering and gaussian mixture models for a customer segmentation problem, and evaluates both. Matlab script included.
+
 
 Readme file: "Online Retail Data" (UCI dataset):
 
