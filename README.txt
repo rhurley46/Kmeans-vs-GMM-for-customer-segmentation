@@ -1,4 +1,4 @@
-*******MACHINE LEARNING COURSEWORK*******
+*******MACHINE LEARNING *******
 
 Readme file: "Online Retail Data" (UCI dataset):
 
